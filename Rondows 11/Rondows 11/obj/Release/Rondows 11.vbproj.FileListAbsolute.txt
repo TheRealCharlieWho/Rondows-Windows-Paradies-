@@ -1,0 +1,19 @@
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\bin\Release\Rondows 11.exe
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\bin\Release\Rondows 11.pdb
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\bin\Release\Rondows 11.xml
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.AdminPassword.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.AppStore.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.browser.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.Desktop.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.Login.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.Resources.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows_11.settings.resources
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.vbproj.GenerateResource.Cache
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.exe
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.xml
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.pdb
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\bin\Release\Rondows 11.exe.manifest
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\bin\Release\Rondows 11.application
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.exe.manifest
+C:\Users\Charlie\Desktop\Rondows 11\Rondows 11\obj\Release\Rondows 11.application

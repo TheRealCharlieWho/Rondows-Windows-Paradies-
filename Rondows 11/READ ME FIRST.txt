@@ -1,0 +1,2 @@
+The File You Need Is A .exe NOT A Visual Studio Solution Or Visual Studio Solution User Options.
+The Visual Studio Solution, Visual Studio Solution User Options, And Everything Inside The Next Rondows 11 Folder Is Source Code. I Have Included The Source Code Just If You Want To Use It As A Template To Make Your Own Windows Parody. I Will Alow You To Fork It Or Something. But To Use As A Template And Edit The Source Code, You Need Visual Basic 2008.
